@@ -116,6 +116,7 @@ school-management-api/
 **1️⃣ Clone the Repository**
 ```
 git clone https://github.com/ansarialiakbar/School-Managment-Api.git
+
 cd school-management-api
 ```
 
